@@ -5,7 +5,7 @@ Steps: How to use?
 1. Create a virtual env for python 3
 2. install requirement.txt file in your enviroment with pip3 install -r requirement.txt
 
-For set in your new project:
+For setup in your new project:
 
 pip3 install django
 pip3 install djangorestframework
